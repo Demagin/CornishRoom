@@ -1,0 +1,10 @@
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\bin\Release\CornishRoom.exe.config
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\bin\Release\CornishRoom.exe
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\bin\Release\CornishRoom.pdb
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\obj\Release\CornishRoom.csprojAssemblyReference.cache
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\obj\Release\CornishRoom.CornishRoom.resources
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\obj\Release\CornishRoom.Properties.Resources.resources
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\obj\Release\CornishRoom.csproj.GenerateResource.cache
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\obj\Release\CornishRoom.csproj.CoreCompileInputs.cache
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\obj\Release\CornishRoom.exe
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\CornishRoom\obj\Release\CornishRoom.pdb
